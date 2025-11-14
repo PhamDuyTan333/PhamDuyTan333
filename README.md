@@ -1,5 +1,5 @@
 <img src="https://github.com/PhamDuyTan333/DuyTan/blob/main/led-rgb.gif" width="100%">
-<img align="center" src="https://github.com/PhamDuyTan333/DuyTan/blob/main/mario3.gif" width="100%"> 
+<img align="center" src="https://github.com/PhamDuyTan333/DuyTan/blob/main/PixelJeff.gif" width="100%"> 
 
 
 <h1 align="center">Hi 👋, I'm Duy Tan</h1>
